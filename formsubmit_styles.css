@@ -1,6 +1,11 @@
 body {
-	background-color: grey;
+	background-color: #E4E4E4;
 	font-family: Helvetica;
+}
+#theH1 {
+	font-size: 30px;
+	font-famil: Courier New;
+	color: #3D2022;
 }
 
 div{
